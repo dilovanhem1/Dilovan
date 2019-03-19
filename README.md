@@ -1,12 +1,12 @@
 
 <html>
 <head>
-	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="Style.css">
-	<title>Module 3 Solution</title>
-	<style>
-		h1{
-	background-color: #c8d6e5;
+   <meta charset="utf-8">
+   <link rel="stylesheet" type="text/css" href="Style.css">
+   <title>Module 3 Solution</title>
+<style>
+h1{
+    background-color: #c8d6e5;
     padding: 50px;
     margin: 0 auto
     font-size: 10px;
@@ -67,6 +67,8 @@ div{
               <div><a href="#t3">Sushi</a></div>
             </div>
         </div>
+
+       
      </div>
 
     </nav>
